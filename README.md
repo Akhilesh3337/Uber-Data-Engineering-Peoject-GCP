@@ -18,7 +18,6 @@ This project dives into the world of Uber data analytics using modern data engin
 
 **Modern data Pipeline Tool:** https://www.mage.ai/
 
-**Contribute to this project here:** https://github.com/mage-ai/mage-ai
 
 ## Dataset Used
 TLC Trip Record Data
