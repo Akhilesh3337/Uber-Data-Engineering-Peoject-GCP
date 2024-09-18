@@ -33,7 +33,7 @@ Here is the dataset used - https://github.com/Akhilesh3337/Uber-Data-Engineering
 ![Data model image](data_model.jpeg)
 
 ## Scripts for project
-1. [Extract Python File](mage-files/extract.py)
+1. [Extract Python File](load.py)
 2. [Load Python File](mage-files/load.py)
 3. [Transform Python File](mage-files/transform.py)
 
